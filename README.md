@@ -1,16 +1,14 @@
-## Hi there 👋
+### Olá! 
+### Seja bem vindo ao meu perfil! 🤙
 
-<!--
-**Paulomartimiano/Paulomartimiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Paulo César Martimiano
+- Estou no Alura.
+- Estou aprendendo programar no Scratch, P5.js e Html.
+- Sou professor da rede estadual de educação de São Paulo. 👨‍🏫
 
-Here are some ideas to get you started:
+### Você pode entrar em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  paulomartimiano@prof.educacao.sp.gov.br
+
+![image](https://github.com/user-attachments/assets/ff6ad71a-9a1b-435c-bf77-fcd755cf769f)
+
